@@ -1,9 +1,13 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+
+# Coursework 2 -Vue.js App -Group 
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  
+  [Express.js App]  link repository -https://github.com/claudiuib/express-js-cw2
+  [Vue.js App] link repository -https://github.com/claudiuib/vue-js-app-cw2
+  [Vue.js App] github-pages link - https://claudiuib.github.io/vue-js-app-cw2/public/index.html
+  
 </td>
 </tr>
 </table>
