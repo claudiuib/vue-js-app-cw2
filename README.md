@@ -1,5 +1,5 @@
 
-### Coursework 2 -Vue.js App -Group 
+### Coursework 2 -Vue.js App -Group (Front-end repo.)
 
 
 
