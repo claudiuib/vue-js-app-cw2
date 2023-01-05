@@ -144,7 +144,7 @@
             },
         //  fetching data from the server
             created :function(){
-                     fetch("https://newcw2mobileapp.herokuapp.com/lessons")
+                     fetch("https://express-server-cw2.herokuapp.com/lessons")
                     .then(response => response.json())
                     .then(lessons => {
                     this.lessons = lessons;
